@@ -1,14 +1,4 @@
-/*--- 
 
-Author: YasirKareem
-Channel: Design & Code
-Link: https://www.youtube.com/DesignCodeY
-Date: Feb 2, 2019
-If you like the lesson please subscribe to the channel
-
----*/
-
-/*global $*/
 
 // fx: đổi màu nền khi cuộn
 $(function () {
